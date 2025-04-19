@@ -424,7 +424,7 @@ main {
 
 
 .product-price {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     color: var(--text-color);
     margin-top: 2; /* Reduzido espaço */
@@ -446,8 +446,8 @@ main {
     transition: all 0.3s ease;
     padding: 4px;
     border-radius: 50%;
-    width: 26px; /* Reduzido ligeiramente */
-    height: 26px; /* Reduzido ligeiramente */
+    width: 23px; /* Reduzido ligeiramente */
+    height: 23px; /* Reduzido ligeiramente */
     display: flex;
     align-items: center;
     justify-content: center;
