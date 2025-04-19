@@ -368,7 +368,7 @@ main {
 
 .product-image-container {
     width: 100%;
-    height: 77%; /* Altura aumentada para proporção vertical */
+    height: 76%; /* Altura aumentada para proporção vertical */
     overflow: hidden;
     cursor: pointer;
     position: relative;
@@ -415,7 +415,7 @@ main {
 .product-title {
     font-size: 14px;
     font-weight: 600;
-    margin-bottom: 3px; /* Reduzido espaço entre título e preço */
+    margin-bottom: 6px; /* Reduzido espaço entre título e preço */
     color: var(--accent-color);
     white-space: nowrap;
     overflow: hidden;
