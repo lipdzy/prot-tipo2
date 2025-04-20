@@ -424,7 +424,7 @@ main {
 
 
 .product-price {
-    font-size: 14px;
+    font-size: 9px;
     font-weight: bold;
     color: var(--text-color);
     margin-top: 2; /* Reduzido espaço */
